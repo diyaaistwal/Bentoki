@@ -1,0 +1,7 @@
+{
+  "name": "Bentōki",
+  "description": "A production-ready daily execution architect inspired by the Japanese bento box. Convert unstructured thoughts into balanced, visually structured focus plans.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
